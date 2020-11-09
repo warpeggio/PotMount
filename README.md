@@ -1,6 +1,7 @@
 # PotMount
 A potentiometer dust cover with M3 mounting holes for use as standoff
-
+![FreeCAD image](https://imgur.com/Zwl2YwI)
+![3D printed](https://imgur.com/1aUNoiO)
 # Usage
 1) Open the FreeCAD project and check out the dimensions. Change the inner and outer diameters as necessary to match your potentiometer. The current values will work to slip over the back of whatever ALPHA pots Tayda is selling right now (that's what i have at hand)
 2) Turn your 3D printer loose on that bad boy
